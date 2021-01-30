@@ -1,0 +1,58 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+class Huffman {
+ private:
+    int strchr(unsigned char s[], unsigned char c) {
+        int i=0;
+        while(s[i]!=c) i++;
+        return i;
+    }
+    struct treenode {
+        unsigned char data;
+        treenode *left, *right;
+    } *tree;
+
+ public:
+    Huffman(unsigned char in[], unsigned char post[], int & pos){tree = treebuild(in, post, pos, pos);}
+    treenode * treebuild(unsigned char in[], unsigned char post[], int & pos, int size) {
+        if (0==pos) return NULL;
+        treenode *t = new treenode;
+        t->data = post[pos-1]; t->left = NULL; t->right = NULL;
+        int loc = strchr(in, post[--pos]);
+        in[loc] = 0;
+        if (loc < size-1 && in[loc+1] != 0) 
+            t->right = treebuild(in,post, pos, size);
+        if (loc > 0 && in[loc-1] != 0) 
+            t->left = treebuild(in, post, pos, size);
+        return t;
+    }
+    
+    void parse(ifstream &codefile) {
+        treenode *p = tree;
+        char c;
+        for(int pos=0; codefile.get(c); pos++) {
+            p = c=='0' ? p->left : p->right;
+            if (p->left == NULL) {
+                cout << p->data;
+                p = tree;
+            }
+        }
+    }
+    
+};
+
+int main(int argc, char* argv[]) {
+    ifstream postfile(argv[2]), infile(argv[1]), codefile(argv[3]);
+    int ch,i=0;
+    unsigned char *post = new unsigned char[255], *in = new unsigned char[255];
+    while  (infile >> ch) { 
+        in[i] = (char) ch;
+        postfile >> ch;
+        post[i++] = (char) ch;
+    }
+    Huffman H(in,post,i);
+    H.parse(codefile);
+    cout << endl;
+}

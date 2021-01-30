@@ -1,0 +1,101 @@
+1,6c1,6
+< The number of words find in the file was 202
+< The number of unique words found in the file was 117
+< Please enter the a word: 
+< The word small appears 1 time in the document
+< Please enter the a word: 
+< The word ebook appears 5 times in the document
+---
+> The number of words found in the file was 202
+> The number of distinct words in the file was 117
+> 
+> Please enter a word: The word small appears 1 times in the document
+> 
+> Please enter a word: The word ebook appears 5 times in the document
+8,11c8,11
+< Please enter the a word: 
+< The word are appears 1 time in the document
+< The word all appears 1 time in the document
+< The word any appears 1 time in the document
+---
+> 
+> Please enter a word: The word are appears 1 times in the document
+> The word all appears 1 times in the document
+> The word any appears 1 times in the document
+13,16c13,16
+< The word at appears 1 time in the document
+< The word a appears 1 time in the document
+< Please enter the a word: 
+< The word the appears 14 times in the document
+---
+> The word at appears 1 times in the document
+> The word a appears 1 times in the document
+> 
+> Please enter a word: The word the appears 14 times in the document
+21,23c21,23
+< The word our appears 1 time in the document
+< The word are appears 1 time in the document
+< The word all appears 1 time in the document
+---
+> The word our appears 1 times in the document
+> The word are appears 1 times in the document
+> The word all appears 1 times in the document
+26c26
+< The word for appears 1 time in the document
+---
+> The word for appears 1 times in the document
+28c28
+< The word any appears 1 time in the document
+---
+> The word any appears 1 times in the document
+31c31
+< The word it appears 1 time in the document
+---
+> The word it appears 1 times in the document
+33,34c33,34
+< The word at appears 1 time in the document
+< The word is appears 1 time in the document
+---
+> The word at appears 1 times in the document
+> The word is appears 1 times in the document
+36,46c36,46
+< The word may appears 1 time in the document
+< The word you appears 1 time in the document
+< The word can appears 1 time in the document
+< The word out appears 1 time in the document
+< The word a appears 1 time in the document
+< The word get appears 1 time in the document
+< The word set appears 1 time in the document
+< Please enter the a word: 
+< The word copyright appears 2 times in the document
+< Please enter the a word: 
+< The word by appears 5 times in the document
+---
+> The word may appears 1 times in the document
+> The word you appears 1 times in the document
+> The word can appears 1 times in the document
+> The word out appears 1 times in the document
+> The word a appears 1 times in the document
+> The word get appears 1 times in the document
+> The word set appears 1 times in the document
+> 
+> Please enter a word: The word copyright appears 2 times in the document
+> 
+> Please enter a word: The word by appears 5 times in the document
+50,58c50,54
+< The word country appears 1 time in the document
+< The word any appears 1 time in the document
+< The word may appears 1 time in the document
+< The word you appears 1 time in the document
+< The word recently appears 1 time in the document
+< Please enter the a word: 
+< The word EOF do not appear in the document
+< Please enter the a word: 
+< The word EOF do not appear in the document
+---
+> The word any appears 1 times in the document
+> The word may appears 1 times in the document
+> The word you appears 1 times in the document
+> 
+> Please enter a word: 
+\ No newline at end of file

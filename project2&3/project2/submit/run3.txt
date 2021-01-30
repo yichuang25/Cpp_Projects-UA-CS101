@@ -1,0 +1,73 @@
+
+First Output
+Time: 0.1	Fuel: 499.9
+Time: 10	Fuel: 280
+Time: 50	Fuel: 270
+Time: 92	Fuel: 240
+Time: 92.9	Fuel: 196
+Time: 93	Fuel: 194
+Time: 95	Fuel: 193
+Time: 96	Fuel: 180
+Time: 97	Fuel: 156
+Time: 98	Fuel: 140
+Time: 100	Fuel: 100
+Time: 200	Fuel: 99
+Time: 498	Fuel: 0.9
+
+Second Output
+
+Current number of inserts: 31
+Time: 0.1	Fuel: 499.9
+Time: 10	Fuel: 280
+Time: 50	Fuel: 270
+Time: 92	Fuel: 240
+Time: 92.9	Fuel: 196
+Time: 93	Fuel: 194
+Time: 95	Fuel: 193
+Time: 96	Fuel: 180
+Time: 97	Fuel: 156
+Time: 98	Fuel: 140
+
+Third Output
+Time: 0.1	Fuel: 499.9
+Time: 10	Fuel: 280
+Time: 50	Fuel: 270
+Time: 50.0009	Fuel: 24.7
+Time: 70.3769	Fuel: 1.02472
+Time: 92.8796	Fuel: 0.974714
+Time: 115.382	Fuel: 0.924708
+Time: 137.885	Fuel: 0.874702
+Time: 160.388	Fuel: 0.824696
+Time: 182.89	Fuel: 0.774689
+Time: 205.393	Fuel: 0.724683
+Time: 227.896	Fuel: 0.674677
+Time: 250.398	Fuel: 0.624671
+Time: 272.901	Fuel: 0.574665
+Time: 295.404	Fuel: 0.524659
+Time: 317.907	Fuel: 0.474653
+Time: 340.409	Fuel: 0.424647
+Time: 362.912	Fuel: 0.374641
+Time: 385.415	Fuel: 0.324635
+Time: 407.917	Fuel: 0.274628
+Time: 430.42	Fuel: 0.224622
+Time: 452.923	Fuel: 0.174616
+Time: 475.426	Fuel: 0.12461
+Time: 497.928	Fuel: 0.074604
+
+Fourth Output
+Time: 497.928	Fuel: 0.074604
+Time: 475.426	Fuel: 0.12461
+Time: 452.923	Fuel: 0.174616
+Time: 430.42	Fuel: 0.224622
+Time: 407.917	Fuel: 0.274628
+Time: 385.415	Fuel: 0.324635
+Time: 362.912	Fuel: 0.374641
+Time: 340.409	Fuel: 0.424647
+Time: 317.907	Fuel: 0.474653
+Time: 295.404	Fuel: 0.524659
+
+Fifth Output
+
+Current Count is 500032
+Time: 0.1	Fuel: 0.1
+Time: 497.928	Fuel: 0.074604

@@ -1,0 +1,2 @@
+Phase 1 code length: 37 bits
+Phase 2 code length: 16 bits

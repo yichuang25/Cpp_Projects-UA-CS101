@@ -1,0 +1,27 @@
+1,16c1,8
+< The number of words find in the file was 931
+< The number of unique words found in the file was 186
+< Please enter the a word: 
+< The word of appears 8 times in the document
+< Please enter the a word: 
+< The word compiler do not appear in the document
+< Please enter the a word: 
+< The word or appears 5 times in the document
+< Please enter the a word: 
+< The word word appears 13 times in the document
+< Please enter the a word: 
+< The word video appears 16 times in the document
+< Please enter the a word: 
+< The word EOF do not appear in the document
+< Please enter the a word: 
+< The word EOF do not appear in the document
+---
+> The number of words found in the file was 931
+> The number of distinct words in the file was 186
+> Please enter a word: The word of appears 8 times in the document
+> Please enter a word: The word compiler appears 0 times in the document
+> Please enter a word: The word or appears 5 times in the document
+> Please enter a word: The word word appears 13 times in the document
+> Please enter a word: The word video appears 16 times in the document
+> Please enter a word: 
+\ No newline at end of file

@@ -1,0 +1,58 @@
+The number of words find in the file was 202
+The number of unique words found in the file was 117
+Please enter the a word: 
+The word small appears 1 time in the document
+Please enter the a word: 
+The word ebook appears 5 times in the document
+The word ebooks appears 2 times in the document
+Please enter the a word: 
+The word are appears 1 time in the document
+The word all appears 1 time in the document
+The word any appears 1 time in the document
+The word and appears 5 times in the document
+The word at appears 1 time in the document
+The word a appears 1 time in the document
+Please enter the a word: 
+The word the appears 14 times in the document
+The word of appears 8 times in the document
+The word by appears 5 times in the document
+The word sir appears 3 times in the document
+The word in appears 2 times in the document
+The word our appears 1 time in the document
+The word are appears 1 time in the document
+The word all appears 1 time in the document
+The word be appears 3 times in the document
+The word to appears 5 times in the document
+The word for appears 1 time in the document
+The word or appears 3 times in the document
+The word any appears 1 time in the document
+The word do appears 2 times in the document
+The word not appears 2 times in the document
+The word it appears 1 time in the document
+The word and appears 5 times in the document
+The word at appears 1 time in the document
+The word is appears 1 time in the document
+The word how appears 3 times in the document
+The word may appears 1 time in the document
+The word you appears 1 time in the document
+The word can appears 1 time in the document
+The word out appears 1 time in the document
+The word a appears 1 time in the document
+The word get appears 1 time in the document
+The word set appears 1 time in the document
+Please enter the a word: 
+The word copyright appears 2 times in the document
+Please enter the a word: 
+The word by appears 5 times in the document
+The word doyle appears 3 times in the document
+The word copyright appears 2 times in the document
+The word your appears 2 times in the document
+The word country appears 1 time in the document
+The word any appears 1 time in the document
+The word may appears 1 time in the document
+The word you appears 1 time in the document
+The word recently appears 1 time in the document
+Please enter the a word: 
+The word EOF do not appear in the document
+Please enter the a word: 
+The word EOF do not appear in the document

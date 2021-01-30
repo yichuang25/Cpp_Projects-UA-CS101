@@ -1,0 +1,6 @@
+of
+compiler
+or
+word
+video
+EOF

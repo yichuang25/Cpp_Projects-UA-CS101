@@ -1,0 +1,82 @@
+2,11c2,11
+< Time: 92	Fuel: 200
+< Time: 93	Fuel: 194
+< Time: 95	Fuel: 193
+< Time: 96	Fuel: 186
+< Time: 97	Fuel: 156
+< Time: 98	Fuel: 148
+< Time: 99	Fuel: 138
+< Time: 100	Fuel: 120
+< Time: 101	Fuel: 113
+< Time: 102	Fuel: 102
+---
+> Time 92  Fuel 200
+> Time 93  Fuel 194
+> Time 95  Fuel 193
+> Time 96  Fuel 186
+> Time 97  Fuel 156
+> Time 98  Fuel 148
+> Time 99  Fuel 138
+> Time 100  Fuel 120
+> Time 101  Fuel 113
+> Time 102  Fuel 102
+14,22c14,22
+< Time: 92	Fuel: 200
+< Time: 93	Fuel: 194
+< Time: 95	Fuel: 193
+< Time: 95.1	Fuel: 186
+< Time: 97.9	Fuel: 156
+< Time: 98	Fuel: 148
+< Time: 99	Fuel: 138
+< Time: 100.4	Fuel: 113
+< Time: 102	Fuel: 102
+---
+> Time 92  Fuel 200
+> Time 93  Fuel 194
+> Time 95  Fuel 193
+> Time 95.1  Fuel 186
+> Time 97.9  Fuel 156
+> Time 98  Fuel 148
+> Time 99  Fuel 138
+> Time 100.4  Fuel 113
+> Time 102  Fuel 102
+25,33c25,33
+< Time: 92	Fuel: 200
+< Time: 93	Fuel: 194
+< Time: 95	Fuel: 192.4
+< Time: 95.1	Fuel: 186
+< Time: 97.9	Fuel: 156
+< Time: 98	Fuel: 148
+< Time: 99	Fuel: 137.1
+< Time: 100.4	Fuel: 113
+< Time: 102	Fuel: 102
+---
+> Time 92  Fuel 200
+> Time 93  Fuel 194
+> Time 95  Fuel 193
+> Time 95.1  Fuel 186
+> Time 97.9  Fuel 156
+> Time 98  Fuel 148
+> Time 99  Fuel 137.1
+> Time 100.4  Fuel 113
+> Time 102  Fuel 102
+44,52c44,52
+< Time: 102	Fuel: 102
+< Time: 100.4	Fuel: 113
+< Time: 99	Fuel: 137.1
+< Time: 98	Fuel: 148
+< Time: 97.9	Fuel: 156
+< Time: 95.1	Fuel: 186
+< Time: 95	Fuel: 192.4
+< Time: 93	Fuel: 194
+< Time: 92	Fuel: 200
+---
+> Time 102  Fuel 102
+> Time 100.4  Fuel 113
+> Time 99  Fuel 137.1
+> Time 98  Fuel 148
+> Time 97.9  Fuel 156
+> Time 95.1  Fuel 186
+> Time 95  Fuel 193
+> Time 93  Fuel 194
+> Time 92  Fuel 200

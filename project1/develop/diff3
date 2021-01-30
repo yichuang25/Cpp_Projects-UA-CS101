@@ -1,0 +1,226 @@
+1,4c1,4
+< The number of words find in the file was 7338
+< The number of unique words found in the file was 1765
+< Please enter the a word: 
+< The word the appears 371 times in the document
+---
+> The number of words found in the file was 7338
+> The number of distinct words in the file was 1765
+> 
+> Please enter a word: The word the appears 371 times in the document
+18,19c18,19
+< The word gay appears 1 time in the document
+< The word neo appears 1 time in the document
+---
+> The word gay appears 1 times in the document
+> The word neo appears 1 times in the document
+24c24
+< The word bus appears 1 time in the document
+---
+> The word bus appears 1 times in the document
+26c26
+< The word iii appears 1 time in the document
+---
+> The word iii appears 1 times in the document
+30c30
+< The word n appears 1 time in the document
+---
+> The word n appears 1 times in the document
+39c39
+< The word ann appears 1 time in the document
+---
+> The word ann appears 1 times in the document
+43c43
+< The word gas appears 1 time in the document
+---
+> The word gas appears 1 times in the document
+50c50
+< The word arm appears 1 time in the document
+---
+> The word arm appears 1 times in the document
+60c60
+< The word top appears 1 time in the document
+---
+> The word top appears 1 times in the document
+71c71
+< The word let appears 1 time in the document
+---
+> The word let appears 1 times in the document
+85c85
+< The word eye appears 1 time in the document
+---
+> The word eye appears 1 times in the document
+91c91
+< The word fix appears 1 time in the document
+---
+> The word fix appears 1 times in the document
+93,95c93,95
+< The word dry appears 1 time in the document
+< The word any appears 1 time in the document
+< The word god appears 1 time in the document
+---
+> The word dry appears 1 times in the document
+> The word any appears 1 times in the document
+> The word god appears 1 times in the document
+99,101c99,101
+< The word pay appears 1 time in the document
+< The word mud appears 1 time in the document
+< The word hey appears 1 time in the document
+---
+> The word pay appears 1 times in the document
+> The word mud appears 1 times in the document
+> The word hey appears 1 times in the document
+115,118c115,118
+< The word sir appears 1 time in the document
+< The word el appears 1 time in the document
+< The word th appears 1 time in the document
+< The word hut appears 1 time in the document
+---
+> The word sir appears 1 times in the document
+> The word el appears 1 times in the document
+> The word th appears 1 times in the document
+> The word hut appears 1 times in the document
+120c120
+< The word law appears 1 time in the document
+---
+> The word law appears 1 times in the document
+123c123
+< The word tie appears 1 time in the document
+---
+> The word tie appears 1 times in the document
+129c129
+< The word ran appears 1 time in the document
+---
+> The word ran appears 1 times in the document
+131c131
+< The word hid appears 1 time in the document
+---
+> The word hid appears 1 times in the document
+133,134c133,134
+< The word sat appears 1 time in the document
+< The word eat appears 1 time in the document
+---
+> The word sat appears 1 times in the document
+> The word eat appears 1 times in the document
+136,138c136,138
+< The word ate appears 1 time in the document
+< The word pan appears 1 time in the document
+< The word sad appears 1 time in the document
+---
+> The word ate appears 1 times in the document
+> The word pan appears 1 times in the document
+> The word sad appears 1 times in the document
+140,141c140,141
+< The word cut appears 1 time in the document
+< The word co appears 1 time in the document
+---
+> The word cut appears 1 times in the document
+> The word co appears 1 times in the document
+144c144
+< The word era appears 1 time in the document
+---
+> The word era appears 1 times in the document
+146,147c146,147
+< The word yes appears 1 time in the document
+< The word set appears 1 time in the document
+---
+> The word yes appears 1 times in the document
+> The word set appears 1 times in the document
+149,152c149,152
+< The word ohi appears 1 time in the document
+< The word bos appears 1 time in the document
+< The word si appears 1 time in the document
+< The word bum appears 1 time in the document
+---
+> The word ohi appears 1 times in the document
+> The word bos appears 1 times in the document
+> The word si appears 1 times in the document
+> The word bum appears 1 times in the document
+154,156c154,156
+< The word hug appears 1 time in the document
+< The word weh appears 1 time in the document
+< The word mix appears 1 time in the document
+---
+> The word hug appears 1 times in the document
+> The word weh appears 1 times in the document
+> The word mix appears 1 times in the document
+158,164c158,164
+< The word cap appears 1 time in the document
+< The word try appears 1 time in the document
+< The word non appears 1 time in the document
+< The word lot appears 1 time in the document
+< The word ago appears 1 time in the document
+< Please enter the a word: 
+< The word a appears 186 times in the document
+---
+> The word cap appears 1 times in the document
+> The word try appears 1 times in the document
+> The word non appears 1 times in the document
+> The word lot appears 1 times in the document
+> The word ago appears 1 times in the document
+> 
+> Please enter a word: The word a appears 186 times in the document
+168,169c168,169
+< The word ann appears 1 time in the document
+< The word arm appears 1 time in the document
+---
+> The word ann appears 1 times in the document
+> The word arm appears 1 times in the document
+176c176
+< The word any appears 1 time in the document
+---
+> The word any appears 1 times in the document
+180,185c180,184
+< The word ate appears 1 time in the document
+< The word ago appears 1 time in the document
+< Please enter the a word: 
+< The word poor appears 3 times in the document
+< The word for appears 53 times in the document
+< The word wore appears 1 time in the document
+---
+> The word ate appears 1 times in the document
+> The word ago appears 1 times in the document
+> 
+> Please enter a word: The word for appears 53 times in the document
+> The word wore appears 1 times in the document
+191c190
+< The word york appears 1 time in the document
+---
+> The word york appears 1 times in the document
+193,195c192,194
+< Please enter the a word: 
+< The word just appears 26 times in the document
+< The word most appears 1 time in the document
+---
+> 
+> Please enter a word: The word just appears 26 times in the document
+> The word most appears 1 times in the document
+198,199c197,198
+< The word last appears 1 time in the document
+< The word cost appears 1 time in the document
+---
+> The word last appears 1 times in the document
+> The word cost appears 1 times in the document
+201,211c200,208
+< The word must appears 1 time in the document
+< The word rest appears 1 time in the document
+< The word lost appears 1 time in the document
+< The word burst appears 1 time in the document
+< The word trust appears 1 time in the document
+< Please enter the a word: 
+< The word someone appears 5 times in the document
+< Please enter the a word: 
+< The word EOF do not appear in the document
+< Please enter the a word: 
+< The word EOF do not appear in the document
+---
+> The word must appears 1 times in the document
+> The word rest appears 1 times in the document
+> The word lost appears 1 times in the document
+> The word burst appears 1 times in the document
+> The word trust appears 1 times in the document
+> 
+> Please enter a word: The word someone appears 5 times in the document
+> 
+> Please enter a word: 
+\ No newline at end of file

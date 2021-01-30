@@ -1,0 +1,271 @@
+First Output
+Time: 59.219	Fuel: 185.009
+Time: 59.2689	Fuel: 184.008
+Time: 59.281	Fuel: 141.008
+Time: 59.3308	Fuel: 140.007
+Time: 59.3551	Fuel: 132.008
+Time: 59.4049	Fuel: 131.007
+Time: 59.4547	Fuel: 130.006
+Time: 59.5046	Fuel: 129.005
+Time: 59.5531	Fuel: 126.006
+Time: 59.5652	Fuel: 83.006
+Time: 59.615	Fuel: 82.0049
+Time: 59.6648	Fuel: 81.0038
+Time: 59.6891	Fuel: 73.0044
+Time: 59.7389	Fuel: 72.0033
+Time: 59.7887	Fuel: 71.0022
+Time: 59.8871	Fuel: 67.0023
+Time: 59.9369	Fuel: 66.0012
+Time: 59.9867	Fuel: 65.0001
+Time: 60.0352	Fuel: 62.0013
+Time: 60.0851	Fuel: 61.0002
+Time: 60.1349	Fuel: 59.9991
+Time: 60.1847	Fuel: 58.998
+Time: 60.446	Fuel: 23.9928
+Time: 60.4959	Fuel: 22.9917
+Time: 60.8703	Fuel: 22.9823
+Time: 61.2448	Fuel: 22.9729
+Time: 61.6192	Fuel: 22.9635
+Time: 62.9897	Fuel: 22.9542
+Time: 66.2998	Fuel: 22.846
+Time: 66.6742	Fuel: 22.8366
+Time: 67.0487	Fuel: 22.8272
+Time: 67.4231	Fuel: 22.8178
+Time: 69.7896	Fuel: 22.8086
+Time: 71.7293	Fuel: 22.7097
+Time: 72.1037	Fuel: 22.7003
+Time: 72.4782	Fuel: 22.6909
+Time: 72.8526	Fuel: 22.6815
+Time: 73.2271	Fuel: 22.6721
+Time: 76.5895	Fuel: 22.663
+Time: 77.5332	Fuel: 22.564
+Time: 77.9076	Fuel: 22.5546
+Time: 78.2821	Fuel: 22.5452
+Time: 78.6565	Fuel: 22.5358
+Time: 80.027	Fuel: 22.5265
+Time: 83.3371	Fuel: 22.4183
+Time: 83.7116	Fuel: 22.4089
+Time: 84.086	Fuel: 22.3995
+Time: 84.4605	Fuel: 22.3901
+Time: 86.8269	Fuel: 22.3809
+Time: 88.7666	Fuel: 22.282
+Time: 89.141	Fuel: 22.2726
+Time: 89.5155	Fuel: 22.2632
+Time: 89.8899	Fuel: 22.2538
+Time: 90.2644	Fuel: 22.2444
+Time: 93.6269	Fuel: 22.2353
+Time: 94.5705	Fuel: 22.1363
+Time: 94.945	Fuel: 22.1269
+Time: 95.3194	Fuel: 22.1175
+Time: 95.6939	Fuel: 22.1081
+Time: 97.0643	Fuel: 22.0988
+Time: 100.427	Fuel: 22.0897
+Time: 103.789	Fuel: 22.0806
+Time: 107.152	Fuel: 22.0715
+Time: 110.514	Fuel: 22.0624
+Time: 113.877	Fuel: 22.0533
+Time: 117.239	Fuel: 22.0442
+Time: 120.602	Fuel: 22.0351
+Time: 123.964	Fuel: 22.026
+Time: 127.327	Fuel: 22.0169
+Time: 130.689	Fuel: 22.0078
+
+index before 50 is 897
+
+index after 100 is 584280
+
+index before 51 is 806
+
+index after 102 is 584282
+
+index before 52 is 806
+
+index after 104 is 584284
+
+index before 53 is 806
+
+index after 106 is 584286
+
+index before 54 is 806
+
+index after 108 is 584288
+
+index before 55 is 715
+
+index after 110 is 584290
+
+index before 56 is 715
+
+index after 112 is 584292
+
+index before 57 is 715
+
+index after 114 is 584294
+
+index before 58 is 624
+
+index after 116 is 584296
+
+index before 59 is 624
+
+index after 118 is 584298
+
+index before 60 is 624
+
+index after 120 is 584300
+
+index before 61 is 624
+
+index after 122 is 584302
+
+index before 62 is 533
+
+index after 124 is 33885
+
+index before 63 is 533
+
+index after 126 is 873258
+
+index before 64 is 533
+
+index after 128 is 322841
+
+index before 65 is 442
+
+index after 130 is 611795
+
+index before 66 is 442
+
+index after 132 is 611797
+
+index before 67 is 442
+
+index after 134 is 61380
+
+index before 68 is 351
+
+index after 136 is 900753
+
+index before 69 is 351
+
+index after 138 is 350336
+
+index before 70 is 351
+
+index after 140 is 150117
+
+index before 71 is 351
+
+index after 142 is 584322
+
+index before 72 is 260
+
+index after 144 is 584324
+
+index before 73 is 260
+
+index after 146 is 584326
+
+index before 74 is 260
+
+index after 148 is 584328
+
+index before 75 is 169
+
+index after 150 is 584330
+
+index before 76 is 169
+
+index after 152 is 584332
+
+index before 77 is 169
+
+index after 154 is 584334
+
+index before 78 is 169
+
+index after 156 is 584336
+
+index before 79 is 78
+
+index after 158 is 584338
+
+index before 80 is 78
+
+index after 160 is 584340
+
+index before 81 is 78
+
+index after 162 is 584342
+
+index before 82 is 78
+
+index after 164 is 584344
+
+index before 83 is 78
+
+index after 166 is 584346
+
+index before 84 is 78
+
+index after 168 is 584348
+
+index before 85 is 78
+
+index after 170 is 584350
+
+index before 86 is 78
+
+index after 172 is 33933
+
+index before 87 is 78
+
+index after 174 is 873306
+
+index before 88 is 78
+
+index after 176 is 322889
+
+index before 89 is 78
+
+index after 178 is 611843
+
+index before 90 is 78
+
+index after 180 is 611845
+
+index before 91 is 78
+
+index after 182 is 61428
+
+index before 92 is 78
+
+index after 184 is 900801
+
+index before 93 is 78
+
+index after 186 is 350384
+
+index before 94 is 988
+
+index after 188 is 584368
+
+index before 95 is 897
+
+index after 190 is 584370
+
+index before 96 is 897
+
+index after 192 is 584372
+
+index before 97 is 897
+
+index after 194 is 584374
+
+index before 98 is 897
+
+index after 196 is 584376
+
+index before 99 is 806
+
+index after 198 is 584378

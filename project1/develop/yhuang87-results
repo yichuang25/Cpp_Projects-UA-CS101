@@ -1,0 +1,19 @@
+Four test cases were used for the grading
+The test cases are p1big.txt, p1small.txt, p1medium.txt and p1simple.txt. The keywords for searching in first two test cases is in searches.txt. The keywords for searching in p1medium.txt test cases is in searches.txt and searching in p1simple.txt is search2.txt . 
+your answer is run.txt, and the expected output is out.txt
+If you have any questions regarding project 1 grades please send me an email within next 2 days. Thank you.
+
+Project 1 grading results for yhuang87
+
+Submitted program compiles correctly and builds project1 executable (20 / 20 points)
+
+Checking output1
+Case1 is not correct (0 / 20 points)
+Checking output2
+Case2 is not correct (22 / 25 points)
+Checking output3
+Case3 is not correct (23 / 25 points)
+Checking output4
+Case4 is not correct (10 / 10 points)
+
+Project 1 score = 75

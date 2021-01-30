@@ -1,0 +1,108 @@
+1d0
+< 
+3,12c2,11
+< Time: 92	Fuel: 200
+< Time: 93	Fuel: 194
+< Time: 95	Fuel: 193
+< Time: 96	Fuel: 186
+< Time: 97	Fuel: 156
+< Time: 98	Fuel: 148
+< Time: 99	Fuel: 138
+< Time: 100	Fuel: 120
+< Time: 101	Fuel: 113
+< Time: 102	Fuel: 102
+---
+> Time 92  Fuel 200
+> Time 93  Fuel 194
+> Time 95  Fuel 193
+> Time 96  Fuel 186
+> Time 97  Fuel 156
+> Time 98  Fuel 148
+> Time 99  Fuel 138
+> Time 100  Fuel 120
+> Time 101  Fuel 113
+> Time 102  Fuel 102
+15,24c14,23
+< Time: 102	Fuel: 102
+< Time: 101	Fuel: 113
+< Time: 100	Fuel: 120
+< Time: 99	Fuel: 138
+< Time: 98	Fuel: 148
+< Time: 97	Fuel: 156
+< Time: 96	Fuel: 186
+< Time: 95	Fuel: 193
+< Time: 93	Fuel: 194
+< Time: 92	Fuel: 200
+---
+> Time 102  Fuel 102
+> Time 101  Fuel 113
+> Time 100  Fuel 120
+> Time 99  Fuel 138
+> Time 98  Fuel 148
+> Time 97  Fuel 156
+> Time 96  Fuel 186
+> Time 95  Fuel 193
+> Time 93  Fuel 194
+> Time 92  Fuel 200
+27,29c26,28
+< Time: 92	Fuel: 200
+< Time: 93	Fuel: 194
+< Time: 95	Fuel: 193
+---
+> Time 92  Fuel 200
+> Time 93  Fuel 194
+> Time 95  Fuel 193
+32,43c31,42
+< Time: 110	Fuel: 75
+< Time: 102	Fuel: 102
+< Time: 101	Fuel: 113
+< Time: 100	Fuel: 120
+< Time: 99	Fuel: 138
+< Time: 98	Fuel: 148
+< Time: 97	Fuel: 156
+< Time: 96	Fuel: 186
+< Time: 95	Fuel: 193
+< Time: 93	Fuel: 194
+< Time: 92	Fuel: 200
+< Time: 50	Fuel: 300
+---
+> Time 110  Fuel 75
+> Time 102  Fuel 102
+> Time 101  Fuel 113
+> Time 100  Fuel 120
+> Time 99  Fuel 138
+> Time 98  Fuel 148
+> Time 97  Fuel 156
+> Time 96  Fuel 186
+> Time 95  Fuel 193
+> Time 93  Fuel 194
+> Time 92  Fuel 200
+> Time 50  Fuel 300
+46,58c45,57
+< Time: 50	Fuel: 300
+< Time: 87	Fuel: 201
+< Time: 92	Fuel: 200
+< Time: 93	Fuel: 194
+< Time: 95	Fuel: 193
+< Time: 96	Fuel: 186
+< Time: 97	Fuel: 156
+< Time: 98	Fuel: 148
+< Time: 99	Fuel: 138
+< Time: 100	Fuel: 120
+< Time: 101	Fuel: 113
+< Time: 102	Fuel: 102
+< Time: 110	Fuel: 75
+---
+> Time 50  Fuel 300
+> Time 87  Fuel 201
+> Time 92  Fuel 200
+> Time 93  Fuel 194
+> Time 95  Fuel 193
+> Time 96  Fuel 186
+> Time 97  Fuel 156
+> Time 98  Fuel 148
+> Time 99  Fuel 138
+> Time 100  Fuel 120
+> Time 101  Fuel 113
+> Time 102  Fuel 102
+> Time 110  Fuel 75

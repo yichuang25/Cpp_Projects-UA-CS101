@@ -1,0 +1,57 @@
+First Output
+Time 0.2  Fuel 499.9
+Time 10  Fuel 280
+Time 50  Fuel 270
+Time 67.7  Fuel 268
+Time 92.1  Fuel 240
+Time 93  Fuel 194
+Time 94.4  Fuel 189.9
+Time 97  Fuel 156
+Time 98  Fuel 140
+Time 100  Fuel 100
+Time 300  Fuel 45
+Time 499  Fuel 1
+
+Second Output
+Time 499  Fuel 1
+Time 300  Fuel 45
+Time 100  Fuel 100
+Time 98  Fuel 140
+Time 97  Fuel 156
+Time 94.4  Fuel 189.9
+Time 93  Fuel 194
+Time 92.1  Fuel 240
+Time 67.7  Fuel 268
+Time 50  Fuel 270
+Time 10  Fuel 280
+Time 0.2  Fuel 499.9
+
+Third Output
+Time 0.2  Fuel 499.9
+Time 10  Fuel 280
+Time 50  Fuel 270
+Time 67.7  Fuel 268
+Time 92.1  Fuel 240
+
+Fourth Output
+
+Current Count is 23
+Time 0.2  Fuel 499.9
+Time 10  Fuel 280
+Time 50  Fuel 270
+Time 67.7  Fuel 268
+Time 92.1  Fuel 240
+Time 93  Fuel 194
+Time 94.4  Fuel 189.9
+Time 96  Fuel 145
+Time 97  Fuel 70
+Time 300  Fuel 45
+Time 499  Fuel 1
+
+Fifth Output
+Time 499  Fuel 1
+Time 300  Fuel 45
+Time 97  Fuel 70
+Time 96  Fuel 145
+Time 94.4  Fuel 189.9
+Time 93  Fuel 194
